@@ -4,6 +4,7 @@ navToggle = document.getElementById('nav-toggle')
 navClose = document.getElementById('nav-close')
 
 /*===== this is insane =======*/
+/*=---- or am I -------*/
 
 /*===== MENU SHOW =====*/
 /* Validate if constant exists */
